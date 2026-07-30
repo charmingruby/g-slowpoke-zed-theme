@@ -1,0 +1,1 @@
+# g-slowpoke-zed-theme
